@@ -1,0 +1,20 @@
+Player Controls:
+Space - Jump
+WASD - Movement
+P - Restart Game (/change team)
+I - Zoom in
+O - Zoom out (soon making scroll wheel)
+
+Build Game:
+B - Change brush (paint color)
+N - Change brick (size)
+R - Rotate brick
+T - Tilt brick
+Numpad Arrows - Move brick horizontally
+Up/Down Arrows - Move brick vertically
+Enter - Place brick
+Click - Move brick relative to view
+Tab - Ingame help
+
+Cops vs Robbers:
+Click - Use tool
